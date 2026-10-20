@@ -1,59 +1,57 @@
 <div align="center">
 
 # Hamza Naghnaghieh
-### Full-Stack Software Engineer
+### Full-Stack Software Engineer | 7 years
 
-**7 years of software development experience**  
-Angular · TypeScript · C# · ASP.NET Core · SQL Server
+**Enterprise applications · ERP systems · Angular · ASP.NET Core · SQL Server**
 
-[LinkedIn](https://www.linkedin.com/in/hamza-naghnaghieh-59632a14a) · [Explore my repositories](https://github.com/HamzaDee?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/hamza-naghnaghieh-59632a14a) · [Explore my work](https://github.com/HamzaDee?tab=repositories)
 
 </div>
 
 ---
 
-## About me
+## Engineering experience
 
-I'm a software engineer based in Amman, Jordan, with 7 years of experience in software development. I build web applications with Angular and .NET, with a focus on ERP systems, business workflows, and maintainable application architecture.
+I'm a Full-Stack Software Engineer with **7 years of experience** specializing in enterprise business applications, ERP systems, Angular, ASP.NET Core, and SQL Server. Based in Amman, Jordan, I work across user interfaces, backend APIs, business workflows, and relational data.
 
-My work connects responsive user interfaces, backend APIs, and relational data. I care about translating complex business requirements into clear, reliable software that is practical to use and straightforward to extend.
+My engineering focus is translating complex operational requirements into maintainable software: modular business screens, connected data-entry workflows, reliable API integrations, and clear separation of application responsibilities.
 
-## Technical focus
+## Types of systems I build
+
+- **Enterprise ERP applications:** inventory, accounting, sales, purchasing, receivables, payables, and reporting workflows.
+- **Business management interfaces:** dashboards, forms, data grids, and bilingual Arabic/English experiences.
+- **Backend business APIs:** customer statements, financial calculations, validation, and structured error handling.
+
+## Core stack
 
 | Area | Technologies and practices |
 | --- | --- |
-| Frontend | Angular, TypeScript, modular UI architecture, dynamic forms |
-| Backend | C#, .NET, ASP.NET Core Web APIs, REST |
-| Data | SQL Server, Entity Framework Core |
+| Frontend | Angular, TypeScript, RxJS, modular components and forms |
+| Backend | C#, ASP.NET Core, REST APIs, dependency injection |
+| Data | SQL Server, Entity Framework Core, relational modeling |
 | Architecture | Clean Architecture, CQRS, MediatR, separation of concerns |
 | API quality | FluentValidation, exception handling, Swagger / OpenAPI |
-| Domain | ERP systems, business management, reporting, customer account statements |
 
-## Selected projects
+## Selected work
 
-### [Customer Statement API](https://github.com/HamzaDee/CustomerStatement)
-An ASP.NET Core API for monthly customer account statements, opening and closing balances, and statement retrieval. Structured around Clean Architecture with CQRS, MediatR, FluentValidation, and Entity Framework Core.
+### 01 · [Enterprise ERP System](https://github.com/HamzaDee/fullstack-angular-dotnet-ERP-System)
+My primary enterprise portfolio project: an Angular frontend for accounting, inventory, sales, purchasing, and reporting workflows, integrated with a separate ASP.NET Core backend.
 
-**Focus:** backend architecture · business rules · validation · SQL Server
+**Demonstrates:** business-domain modules, complex forms, API integration, Arabic/English application structure.
 
-### [ERP System — Angular + .NET](https://github.com/HamzaDee/fullstack-angular-dotnet-ERP-System)
-An ERP project showcasing modular business application structure, user and role management, dashboards, reports, and dynamic forms.
+### 02 · [Customer Statement API](https://github.com/HamzaDee/CustomerStatement)
+An ASP.NET Core API that generates monthly statements, calculates balances, and retrieves statement history using Clean Architecture, CQRS, MediatR, FluentValidation, EF Core, and SQL Server.
 
-**Focus:** enterprise workflows · Angular · TypeScript · modular application design
+**Demonstrates:** business rules, application boundaries, request validation, persistence, documented endpoints.
 
-### [FusionStack](https://github.com/HamzaDee/FusionStack)
-A full-stack business application project built around Angular and .NET, with an emphasis on scalable and maintainable business solutions.
+### 03 · [FusionStack](https://github.com/HamzaDee/FusionStack)
+An Angular/.NET business application workspace documenting the direction for a modular full-stack system. The public snapshot contains configuration and architecture documentation; application source is still to be added.
 
-**Focus:** full-stack development · business applications · maintainability
+## How I approach engineering
 
-## Engineering approach
-
-- **Clear architecture:** keep business rules, application logic, and infrastructure responsibilities separate.
-- **Reliable APIs:** validate requests, handle errors consistently, and document application contracts.
-- **Practical delivery:** keep complex workflows understandable and build features that can evolve with business needs.
+I value clear business rules, maintainable module boundaries, consistent validation, and practical user workflows. My aim is to make complex enterprise software easier to understand, use, and extend.
 
 ---
 
-### Connect
-
-For professional conversations about Angular, .NET, ERP systems, or software development, connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-naghnaghieh-59632a14a).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-naghnaghieh-59632a14a) to discuss enterprise software, ERP development, Angular, or ASP.NET Core.
